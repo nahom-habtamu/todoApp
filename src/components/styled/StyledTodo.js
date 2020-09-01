@@ -45,16 +45,15 @@ const AddForm = styled.div`
 `;
 
 export { AddForm };
-
 const Welcome = styled.div`
     margin-top : 5px;
-    color: black;
+    color: white;
     font-size : 30px;
     text-transform : uppercase;
     text-align : center;
     width : 100%;
-    height : 50px;
-    background : -webkit-linear-gradient(white,lightgray,white);
+    height : 20%;
+    background : -webkit-linear-gradient(black,white);
 `;
 
 export { Welcome };
